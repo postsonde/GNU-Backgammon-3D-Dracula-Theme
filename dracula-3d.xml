@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<board-designs>
+
+    <board-design>
+
+        <about>
+<!--             <title>Dracula_3D_gold</title> -->
+            <author>Custom</author>
+        </about>
+
+        <design>
+            board=#282A36;0.00
+            border=#44475A
+            wood=paint
+            hinges=n
+            light=150;50
+            shape=0.5
+            chequers0=#BD93F9;1.00;3.00;0.90;19.90
+            chequers1=#C5EFC9;1.00;3.00;0.90;14.80
+            dice0=#5B3F8C;0.90;19.90;y
+            dice1=#3A3218;0.90;14.80;y
+            dot0=#FFFFFF
+            dot1=#FFFFFF
+            cube=#50FA7B
+            points0=#BD93F9;0.09
+            points1=#6272A4;0.20
+            hinges3d=n
+            piecetype=0
+            piecetexturetype=1
+            roundededges=y
+            bgintrays=y
+            roundedpoints=n
+            lighttype=p
+            lightposx=0.70 lightposy=0.70 lightposz=3.80
+            lightambient=50 lightdiffuse=70 lightspecular=100
+            chequers3d0=#BD93F9;#9B72D8;#42424C;91;100;swirl.png
+            chequers3d1=#C5EFC9;#A6D9AC;#3F3F3F;70;100;swirl.png
+            dice3d0=#5B3F8C;#44307A;#2A1D4D;91;100;y
+            dice3d1=#3A3218;#C9A227;#1A1609;91;100;y
+            dot3d0=#FFFFFF;#F0F0F0;#1B1B1B;128;100
+            dot3d1=#FFFFFF;#F0F0F0;#1B1B1B;128;100
+            cube3d=#50FA7B;#35C96B;#B6FFD0;80;0
+            cubetext3d=#282A36;#44475A;#282A36;98;100
+            base3d=#282A36;#383A4A;#000000;128;0;felt.png
+            points3d0=#BD93F9;#9B72D8;#49181D;128;100;felt.png
+            points3d1=#6272A4;#44475A;#47514A;128;100;felt.png
+            border3d=#44475A;#6272A4;#37465C;128;100;Grass01.png
+            hinge3d=#FF79C6;#C94F91;#E9C944;63;0;hinge.png
+            numbers3d=#F8F8F2;#BD93F9;#010101;116;100
+            background3d=#1E1F29;#2B2D3A;#BD93F9;116;0;suede.png
+        </design>
+
+    </board-design>
+
+
+</board-designs>
